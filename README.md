@@ -4,7 +4,7 @@
 
 
 <p href="https://discord.gg/DPkuunh6XN" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/paste/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>
 </p>
 
 ```python

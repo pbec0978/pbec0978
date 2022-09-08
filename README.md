@@ -1,6 +1,6 @@
 <!-- Hi skid <3 -->
 
-<h2 align="center">⭐️ freelance developer ⭐️</h2>
+<h2 align="center">⭐️freelance developer⭐️</h2>
 
 
 <p href="https://discord.gg/DPkuunh6XN" align="center">

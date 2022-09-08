@@ -4,7 +4,7 @@
 
 
 <p href="https://discord.gg/DPkuunh6XN" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/847443135759515659/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/paste/>
 </p>
 
 ```python
@@ -16,8 +16,8 @@ class Attributes:
 		bitches.get('bitches')
 		
 	def contact(self):
-	    discord  = "mix4r#0001"
-	    gmail   = "mix4r.dev@gmail.com"
+	    discord  = "sumzum#1827"
+	    gmail   = "minniemouse.static@gmail.com"
 	    
 	        return discord, gmail
 

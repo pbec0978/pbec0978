@@ -1,7 +1,4 @@
-<!-- Hi skid <3 -->
-
-<h2 align="center">⭐️freelance developer⭐️</h2>
-
+![Header](./header.png)
 
 <p href="https://discord.gg/DPkuunh6XN" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>
@@ -39,3 +36,5 @@ class Attributes:
 <p href="https://discord.gg/DPkuunh6XN" align="center">
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=sumzum&show_icons=true&theme=tokyonight>
 </p> 
+
+![Footer](./footer.png)

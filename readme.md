@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./header.pn)
 
 <p href="https://discord.gg/DPkuunh6XN" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>

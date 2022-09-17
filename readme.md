@@ -33,8 +33,5 @@ class Attributes:
 		
 		return specialities, environnement
 ```
-<p href="https://discord.gg/DPkuunh6XN" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api?username=sumzum&show_icons=true&theme=tokyonigh>
-</p>
 
 ![Footer](./footer.png)

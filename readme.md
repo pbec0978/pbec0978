@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](https://raw.githubusercontent.com/sumzum/image-storage/main/sumzum/header.png)
 
 <p href="https://discord.gg/DPkuunh6XN" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>
@@ -34,4 +34,4 @@ class Attributes:
 		return specialities, environnement
 ```
 
-![Footer](./footer.png)
+![Footer](https://raw.githubusercontent.com/sumzum/image-storage/main/sumzum/footer.png)

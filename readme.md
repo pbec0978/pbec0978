@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/sumzum/image-storage/main/sumzum/header.png)
 
-h2 align="center">YouTube: <a href="https://discord.gg/onlp">/sumzum</a></h2>
+<h2 align="center">YouTube: <a href="https://youtube.com/channel/UCLlyfo4tM1fFESHTtRkzEHg">/sumzum</a></h2>
 
 
 <p href="https://discord.gg/DPkuunh6XN" align="center">

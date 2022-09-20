@@ -28,7 +28,7 @@ class Attributes:
 		 
 
 	def coding(self):
-		specialities  = ['discord bots', 'websites']
+		specialities  = ['discord bots', 'anything in python really']
 		environnement = ['vscode']
 		
 		return specialities, environnement

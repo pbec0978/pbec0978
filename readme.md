@@ -1,8 +1,5 @@
 ![Header](https://raw.githubusercontent.com/sumzum/image-storage/main/sumzum/header.png)
 
-<h2 align="center">YouTube: <a href="https://youtube.com/channel/UCLlyfo4tM1fFESHTtRkzEHg">click here</a></h2>
-
-
 <p href="https://discord.gg/DPkuunh6XN" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>
 </p>
@@ -36,5 +33,7 @@ class Attributes:
 		
 		return specialities, environnement
 ```
+
+<h2 align="center">YouTube: <a href="https://youtube.com/channel/UCLlyfo4tM1fFESHTtRkzEHg">click here</a></h2>
 
 ![Footer](https://raw.githubusercontent.com/sumzum/image-storage/main/sumzum/footer.png)

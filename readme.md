@@ -34,6 +34,4 @@ class Attributes:
 		return specialities, environnement
 ```
 
-<h2 align="center">YouTube: <a href="https://youtube.com/channel/UCLlyfo4tM1fFESHTtRkzEHg">click here</a></h2>
-
 ![Footer](https://raw.githubusercontent.com/sumzum/image-storage/main/sumzum/footer.png)

@@ -4,6 +4,7 @@
     <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>
 </p>
 
+<!--
 ```python
 
 import bitches
@@ -33,5 +34,6 @@ class Attributes:
 		
 		return specialities, environnement
 ```
+-->
 
 ![Footer](https://raw.githubusercontent.com/sumzum/image-storage/main/sumzum/footer.png)

@@ -4,8 +4,6 @@
     <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=python,;html-css,;go)](https://git.io/typing-svg)
-
 <!--
 ```python
 

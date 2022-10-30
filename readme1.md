@@ -1,7 +1,7 @@
 ![caca](https://camo.githubusercontent.com/62a3ce0af4556682fcdaaff5e2ad6213de2e9c3050b3565e0fe73a83673cc4f9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7874656b6b7926636f6c6f723d79656c6c6f77267374796c653d666c61742d737175617265)
 
 ## ~ [.𝖌𝖌/𝖟𝖚𝖒](https://discord.gg/onlp) ~ 
-<p href="https://discord.gg/DPkuunh6XN" align="center">
+<p href="https://discord.gg/zum" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>
 </p>
 
@@ -14,6 +14,6 @@
 - 👀 Interested in:  **Botting** | **AI** | **Backend**
 
 ## ~ 𝖘𝖙𝖆𝖙𝖘 ~ 
-<a href="https://github.com/vyzv" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyzv&show_icons=true&theme=midnight-purple" />
-</a>
+<p href="https://github.com/vyzv" align="center">
+    <img alt="https://github-readme-stats.vercel.app/api?username=vyzv&show_icons=true&theme=midnight-purple" />
+</p>

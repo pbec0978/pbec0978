@@ -10,11 +10,11 @@
 
 ```python
 
-import bitches
+import readme
 
 class Attributes:
 	def __init__(self) -> None:
-		bitches.get('bitches')
+		information.get('readme')
 
 
 	def life(self):
@@ -25,8 +25,8 @@ class Attributes:
 		 
 
 	def coding(self):
-		specialities  = ['sm-botting', 'exploits', 'hacking']
-		environnement = ['vscode']
+		specialities  = ['botting', 'exploits', 'deauth']
+		environnement = ['python', 'nodejs', 'js']
 		
 		return specialities, environnement
 ```

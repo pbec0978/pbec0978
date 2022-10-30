@@ -15,5 +15,5 @@
 
 ## ~ 𝖘𝖙𝖆𝖙𝖘 ~ 
 <p href="https://github.com/vyzv" align="center">
-    <img alt="https://github-readme-stats.vercel.app/api?username=vyzv&show_icons=true&theme=midnight-purple" />
+    <img source="https://github-readme-stats.vercel.app/api?username=vyzv&show_icons=true&theme=midnight-purple" />
 </p>

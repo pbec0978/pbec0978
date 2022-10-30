@@ -14,6 +14,6 @@
 - 👀 Interested in:  **Botting** | **AI** | **Backend**
 
 ## ~ 𝖘𝖙𝖆𝖙𝖘 ~ 
-<a href="https://github.com/vyzv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vyzv&show_icons=true&theme=midnight-purple" />
+<a href="https://github.com/vyzv" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vyzv&show_icons=true&theme=midnight-purple" />
 </a>

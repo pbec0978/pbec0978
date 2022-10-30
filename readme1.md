@@ -3,13 +3,12 @@
 ## ~ 𝖘𝖊𝖗𝖛𝖊𝖗 : [𝖌𝖌/𝖔𝖓𝖑𝖕](https://discord.gg/onlp) ~ 
 
 ## ~ 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 ~
-- 📫 Discord: [vyzv#1827](https://discord.gg/zum)
+- 👻 Discord: [vyzv#1827](https://discord.gg/zum)
 - 📫 Email: expvyzv@gmail.com
 
 ## ~ 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊 ~ 
-- 🍭 Languages: German / English / Spanish
-- 🌱 Libraries I'm working with: [**Requests**](https://www.discord.gg/whaxor) | [**Selenium**](https://www.selenium.dev/) | [**Tensorflow**](https://www.tensorflow.org/)
-- 👀 Interested in:  **Botting** | **Neural Networks** | **AI** | **Deep Learning**
+- 🗣️ Languages: German / English / Spanish
+- 👀 Interested in:  **Botting** | **AI** | **Backend**
 
 ## ~ 𝖘𝖙𝖆𝖙𝖘 ~ 
 <a href="https://github.com/vyzv">

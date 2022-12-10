@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/sumzum/image-storage/main/sumzum/header.png)
 
 <p href="https://discord.gg/DPkuunh6XN" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/847443135759515659/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/1047568027815784589/>
 </p>
 
 <!--

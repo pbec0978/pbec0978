@@ -36,4 +36,4 @@ class Attributes:
 ```
 -->
 
-![Footer](https://raw.githubusercontent.com/sumzum/image-storage/main/sumzum/footer.png)
+![Footer](https://raw.githubusercontent.com/vyzv/vyzv/main/img/footer.png)
